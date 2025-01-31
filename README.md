@@ -17,7 +17,7 @@ Make sure you have Go installed, then clone this repository:
 ```sh
 $ git clone https://github.com/vijay922/SQL-Injection-Scanner.git
 $ cd SQL-Injection-Scanner
-$ go build -o sqli-scanner
+$ go build timesqli.go -o sqli-scanner
 ```
 
 ## Usage
