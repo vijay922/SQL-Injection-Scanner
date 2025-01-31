@@ -15,8 +15,8 @@ This is a **SQL Injection (SQLi) vulnerability scanner** written in **Go**. It a
 Make sure you have Go installed, then clone this repository:
 
 ```sh
-$ git clone https://github.com/yourusername/sqli-scanner.git
-$ cd sqli-scanner
+$ git clone https://github.com/vijay922/SQL-Injection-Scanner.git
+$ cd SQL-Injection-Scanner
 $ go build -o sqli-scanner
 ```
 
