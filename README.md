@@ -62,6 +62,15 @@ If a vulnerable URL is found, it prints:
 
 In verbose mode (`-v`), it also prints details of each request and response time.
 
+## Notes:
+```
+This script is for educational and authorized testing purposes only.
+
+Always ensure you have explicit permission to test the target systems.
+
+The script may need further customization depending on the target environment and WAF configurations.
+```
+
 ## License
 This project is open-source under the MIT License. Contributions are welcome!
 
